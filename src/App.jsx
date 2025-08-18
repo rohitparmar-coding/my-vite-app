@@ -13,7 +13,7 @@ import Education from './pages/Education'
 const App = () => {
   return (
     <div className='bg-white
-        w-[100vw] h-[100vh] overflow-auto'>
+        w-[100vw] h-[100vh] overflow-auto '>
 
         <Navbar/>
         <Home />
